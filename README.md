@@ -4,11 +4,11 @@ WEB DEV - ПОТОК 03 ( УРОК: ЧАСТЬ 3. ПРОЕКТ. )
 ## Учебный Проект "Сайт IT специалиста" на программе WebAcademy
 
 
-[**Ссылка на Проект "Сайт IT специалиста"**](https://portfoliosite.upperlinks.ru/ "Сайт Портфолио 'Личный Сайт IT специалиста'")
+[**Ссылка на Проект**](https://portfoliosite.upperlinks.ru/ "Сайт Портфолио 'Личный Сайт IT специалиста'")
 
 
 
-![Сайт портфолио](https://i.ibb.co/WBMyKSS/pf-wa.png)
+![Сайт портфолио](https://i.ibb.co/M9TBCsz/site-portfolio.png)
 
 
 
